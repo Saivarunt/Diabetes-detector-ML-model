@@ -11,7 +11,8 @@ Type 1 diabetes: This type occurs when the body fails to produce insulin. People
 Type 2 diabetes: This affects the way the body uses insulin. While the body still makes insulin, unlike in type I, the cells in the body do not respond to it as effectively as they once did. This is the most common type of diabetes and it has strong links with obesity.<br><br>
 Gestational diabetes: This type occurs in women during pregnancy when the body can become less sensitive to insulin. Gestational diabetes does not occur in all women and usually resolves after giving birth._
 
-### _Things to do and to take care of :_
+### _Things to do and to take care of :
+
 - Eating a Balanced Diet.
 - Avoiding High sugar foods.
 - By not drinking excessive amount of Alcohol.
