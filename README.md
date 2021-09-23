@@ -16,7 +16,7 @@ Gestational diabetes: This type occurs in women during pregnancy when the body c
 - Eating a Balanced Diet.
 - Avoiding High sugar foods.
 - By not drinking excessive amount of Alcohol.
-- Daily exercise is Mandatory
+- Daily exercise is Mandatory and consistency is appreciated always.
 - Constantly Monitoring Oneself.
 
 ![iabetes in women](https://user-images.githubusercontent.com/73397927/133956711-9127c297-8c47-4015-a191-a6ecf4ec6193.jpg)
