@@ -6,7 +6,7 @@ _It is a condition that impairs the body’s ability to process blood glucose, o
 Without ongoing, careful management, diabetes can lead to a buildup of sugars in the blood, which can increase the risk of dangerous complications, including Stroke and Heart Disease._
 
 
-_3 Major Types of Diabetes:
+_3 Major Types of Diabetes::
 Type 1 diabetes: This type occurs when the body fails to produce insulin. People with type I diabetes are insulin-dependent, which means they must take artificial insulin daily to stay alive.<br><br>
 Type 2 diabetes: This affects the way the body uses insulin. While the body still makes insulin, unlike in type I, the cells in the body do not respond to it as effectively as they once did. This is the most common type of diabetes and it has strong links with obesity.<br><br>
 Gestational diabetes: This type occurs in women during pregnancy when the body can become less sensitive to insulin. Gestational diabetes does not occur in all women and usually resolves after giving birth._
@@ -66,6 +66,6 @@ Gestational diabetes: This type occurs in women during pregnancy when the body c
 - Finded Accuracy score
 - Plotted Confusion Matrix
 - And at last, Classification report.
-
+!
 
 ##### THE FINAL LINE - <br> _With Around 80percent accuracy, my trained model can predict whether the given individual is having diabetes or not !_
