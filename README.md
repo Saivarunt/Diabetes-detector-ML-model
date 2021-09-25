@@ -34,7 +34,7 @@ Gestational diabetes: This type occurs in women during pregnancy when the body c
 
 ## And then I made my model for the Prediction :
 - Did Data Preprocessing.
-- Did Train-Test split
+- Did Train-Test split !
 
 
 ## Trained my Model using :
